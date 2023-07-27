@@ -6,7 +6,7 @@ import Hero from './components/hero'
 import Navbar from './components/navbar'
 import Services from './components/services'
 // import TesModal from './components/tesmodal'
-import './index.css'
+import '/index.css'
 
 
 export default function App() {
